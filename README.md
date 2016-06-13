@@ -4,6 +4,6 @@
 
 效果图如下：
 
-![Mou icon](file:///Users/love/Desktop/gitBooksnip/2.gif)
+![](file:///Users/love/Desktop/gitBooksnip/2.gif)
 
 
