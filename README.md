@@ -3,7 +3,6 @@
 
 
 效果图如下：
-
-![](file:///Users/love/Desktop/gitBooksnip/2.gif)
+![image](https://github.com/YourAcountName/ProjectName/blob/master/2.gif ) 
 
 
