@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C2F1E271D0E6DBE00A4904A /* EntertainmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E261D0E6DBE00A4904A /* EntertainmentViewController.m */; };
+		9C2F1E2A1D0E6DD300A4904A /* FashionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E291D0E6DD300A4904A /* FashionViewController.m */; };
+		9C2F1E2D1D0E6DDD00A4904A /* FunnyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E2C1D0E6DDD00A4904A /* FunnyViewController.m */; };
+		9C2F1E301D0E6DEB00A4904A /* MilitaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E2F1D0E6DEB00A4904A /* MilitaryViewController.m */; };
+		9C2F1E331D0E6DF900A4904A /* MitoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E321D0E6DF900A4904A /* MitoViewController.m */; };
+		9C2F1E361D0E6E0300A4904A /* RecommendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E351D0E6E0300A4904A /* RecommendViewController.m */; };
+		9C2F1E391D0E6E0D00A4904A /* SocialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2F1E381D0E6E0D00A4904A /* SocialViewController.m */; };
+		9C2F1E3B1D0E6E5300A4904A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2F1E3A1D0E6E5300A4904A /* Main.storyboard */; };
+		9C834F081D0E6D7100F1D38F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C834F071D0E6D7100F1D38F /* ViewController.m */; };
 		9C8CD0C01D0E69E20071DB42 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0BF1D0E69E20071DB42 /* main.m */; };
 		9C8CD0C31D0E69E20071DB42 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0C21D0E69E20071DB42 /* AppDelegate.m */; };
 		9C8CD0CB1D0E69E20071DB42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C8CD0CA1D0E69E20071DB42 /* Assets.xcassets */; };
 		9C8CD0CE1D0E69E20071DB42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C8CD0CC1D0E69E20071DB42 /* LaunchScreen.storyboard */; };
 		9C8CD0D91D0E69E20071DB42 /* NewsProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0D81D0E69E20071DB42 /* NewsProjectTests.m */; };
 		9C8CD0E41D0E69E20071DB42 /* NewsProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0E31D0E69E20071DB42 /* NewsProjectUITests.m */; };
-		9C8CD1031D0E6ACE0071DB42 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0F21D0E6ACE0071DB42 /* ViewController.m */; };
-		9C8CD1041D0E6ACE0071DB42 /* RecommendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0F41D0E6ACE0071DB42 /* RecommendViewController.m */; };
-		9C8CD1051D0E6ACE0071DB42 /* EntertainmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0F61D0E6ACE0071DB42 /* EntertainmentViewController.m */; };
-		9C8CD1061D0E6ACE0071DB42 /* FunnyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0F81D0E6ACE0071DB42 /* FunnyViewController.m */; };
-		9C8CD1071D0E6ACE0071DB42 /* MitoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0FA1D0E6ACE0071DB42 /* MitoViewController.m */; };
-		9C8CD1081D0E6ACE0071DB42 /* MilitaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0FC1D0E6ACE0071DB42 /* MilitaryViewController.m */; };
-		9C8CD1091D0E6ACE0071DB42 /* SocialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD0FE1D0E6ACE0071DB42 /* SocialViewController.m */; };
-		9C8CD10A1D0E6ACE0071DB42 /* FashionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C8CD1001D0E6ACE0071DB42 /* FashionViewController.m */; };
-		9C8CD10B1D0E6ACE0071DB42 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C8CD1021D0E6ACE0071DB42 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +42,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C2F1E251D0E6DBE00A4904A /* EntertainmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EntertainmentViewController.h; sourceTree = "<group>"; };
+		9C2F1E261D0E6DBE00A4904A /* EntertainmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EntertainmentViewController.m; sourceTree = "<group>"; };
+		9C2F1E281D0E6DD300A4904A /* FashionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FashionViewController.h; sourceTree = "<group>"; };
+		9C2F1E291D0E6DD300A4904A /* FashionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FashionViewController.m; sourceTree = "<group>"; };
+		9C2F1E2B1D0E6DDD00A4904A /* FunnyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FunnyViewController.h; sourceTree = "<group>"; };
+		9C2F1E2C1D0E6DDD00A4904A /* FunnyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FunnyViewController.m; sourceTree = "<group>"; };
+		9C2F1E2E1D0E6DEB00A4904A /* MilitaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MilitaryViewController.h; sourceTree = "<group>"; };
+		9C2F1E2F1D0E6DEB00A4904A /* MilitaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MilitaryViewController.m; sourceTree = "<group>"; };
+		9C2F1E311D0E6DF900A4904A /* MitoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MitoViewController.h; sourceTree = "<group>"; };
+		9C2F1E321D0E6DF900A4904A /* MitoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MitoViewController.m; sourceTree = "<group>"; };
+		9C2F1E341D0E6E0300A4904A /* RecommendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecommendViewController.h; sourceTree = "<group>"; };
+		9C2F1E351D0E6E0300A4904A /* RecommendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecommendViewController.m; sourceTree = "<group>"; };
+		9C2F1E371D0E6E0D00A4904A /* SocialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocialViewController.h; sourceTree = "<group>"; };
+		9C2F1E381D0E6E0D00A4904A /* SocialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocialViewController.m; sourceTree = "<group>"; };
+		9C2F1E3A1D0E6E5300A4904A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		9C834F061D0E6D7100F1D38F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9C834F071D0E6D7100F1D38F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		9C8CD0BB1D0E69E20071DB42 /* NewsProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8CD0BF1D0E69E20071DB42 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9C8CD0C11D0E69E20071DB42 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -55,23 +72,6 @@
 		9C8CD0DF1D0E69E20071DB42 /* NewsProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8CD0E31D0E69E20071DB42 /* NewsProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsProjectUITests.m; sourceTree = "<group>"; };
 		9C8CD0E51D0E69E20071DB42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C8CD0F11D0E6ACE0071DB42 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = "../../../头条/头条/ViewController.h"; sourceTree = "<group>"; };
-		9C8CD0F21D0E6ACE0071DB42 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = "../../../头条/头条/ViewController.m"; sourceTree = "<group>"; };
-		9C8CD0F31D0E6ACE0071DB42 /* RecommendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RecommendViewController.h; path = "../../../头条/头条/RecommendViewController.h"; sourceTree = "<group>"; };
-		9C8CD0F41D0E6ACE0071DB42 /* RecommendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RecommendViewController.m; path = "../../../头条/头条/RecommendViewController.m"; sourceTree = "<group>"; };
-		9C8CD0F51D0E6ACE0071DB42 /* EntertainmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EntertainmentViewController.h; path = "../../../头条/头条/EntertainmentViewController.h"; sourceTree = "<group>"; };
-		9C8CD0F61D0E6ACE0071DB42 /* EntertainmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EntertainmentViewController.m; path = "../../../头条/头条/EntertainmentViewController.m"; sourceTree = "<group>"; };
-		9C8CD0F71D0E6ACE0071DB42 /* FunnyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FunnyViewController.h; path = "../../../头条/头条/FunnyViewController.h"; sourceTree = "<group>"; };
-		9C8CD0F81D0E6ACE0071DB42 /* FunnyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FunnyViewController.m; path = "../../../头条/头条/FunnyViewController.m"; sourceTree = "<group>"; };
-		9C8CD0F91D0E6ACE0071DB42 /* MitoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MitoViewController.h; path = "../../../头条/头条/MitoViewController.h"; sourceTree = "<group>"; };
-		9C8CD0FA1D0E6ACE0071DB42 /* MitoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MitoViewController.m; path = "../../../头条/头条/MitoViewController.m"; sourceTree = "<group>"; };
-		9C8CD0FB1D0E6ACE0071DB42 /* MilitaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MilitaryViewController.h; path = "../../../头条/头条/MilitaryViewController.h"; sourceTree = "<group>"; };
-		9C8CD0FC1D0E6ACE0071DB42 /* MilitaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MilitaryViewController.m; path = "../../../头条/头条/MilitaryViewController.m"; sourceTree = "<group>"; };
-		9C8CD0FD1D0E6ACE0071DB42 /* SocialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SocialViewController.h; path = "../../../头条/头条/SocialViewController.h"; sourceTree = "<group>"; };
-		9C8CD0FE1D0E6ACE0071DB42 /* SocialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SocialViewController.m; path = "../../../头条/头条/SocialViewController.m"; sourceTree = "<group>"; };
-		9C8CD0FF1D0E6ACE0071DB42 /* FashionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FashionViewController.h; path = "../../../头条/头条/FashionViewController.h"; sourceTree = "<group>"; };
-		9C8CD1001D0E6ACE0071DB42 /* FashionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FashionViewController.m; path = "../../../头条/头条/FashionViewController.m"; sourceTree = "<group>"; };
-		9C8CD1011D0E6ACE0071DB42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,23 +124,23 @@
 			children = (
 				9C8CD0C11D0E69E20071DB42 /* AppDelegate.h */,
 				9C8CD0C21D0E69E20071DB42 /* AppDelegate.m */,
-				9C8CD0F11D0E6ACE0071DB42 /* ViewController.h */,
-				9C8CD0F21D0E6ACE0071DB42 /* ViewController.m */,
-				9C8CD0F31D0E6ACE0071DB42 /* RecommendViewController.h */,
-				9C8CD0F41D0E6ACE0071DB42 /* RecommendViewController.m */,
-				9C8CD0F51D0E6ACE0071DB42 /* EntertainmentViewController.h */,
-				9C8CD0F61D0E6ACE0071DB42 /* EntertainmentViewController.m */,
-				9C8CD0F71D0E6ACE0071DB42 /* FunnyViewController.h */,
-				9C8CD0F81D0E6ACE0071DB42 /* FunnyViewController.m */,
-				9C8CD0F91D0E6ACE0071DB42 /* MitoViewController.h */,
-				9C8CD0FA1D0E6ACE0071DB42 /* MitoViewController.m */,
-				9C8CD0FB1D0E6ACE0071DB42 /* MilitaryViewController.h */,
-				9C8CD0FC1D0E6ACE0071DB42 /* MilitaryViewController.m */,
-				9C8CD0FD1D0E6ACE0071DB42 /* SocialViewController.h */,
-				9C8CD0FE1D0E6ACE0071DB42 /* SocialViewController.m */,
-				9C8CD0FF1D0E6ACE0071DB42 /* FashionViewController.h */,
-				9C8CD1001D0E6ACE0071DB42 /* FashionViewController.m */,
-				9C8CD1021D0E6ACE0071DB42 /* Main.storyboard */,
+				9C834F061D0E6D7100F1D38F /* ViewController.h */,
+				9C834F071D0E6D7100F1D38F /* ViewController.m */,
+				9C2F1E251D0E6DBE00A4904A /* EntertainmentViewController.h */,
+				9C2F1E261D0E6DBE00A4904A /* EntertainmentViewController.m */,
+				9C2F1E281D0E6DD300A4904A /* FashionViewController.h */,
+				9C2F1E291D0E6DD300A4904A /* FashionViewController.m */,
+				9C2F1E2B1D0E6DDD00A4904A /* FunnyViewController.h */,
+				9C2F1E2C1D0E6DDD00A4904A /* FunnyViewController.m */,
+				9C2F1E2E1D0E6DEB00A4904A /* MilitaryViewController.h */,
+				9C2F1E2F1D0E6DEB00A4904A /* MilitaryViewController.m */,
+				9C2F1E311D0E6DF900A4904A /* MitoViewController.h */,
+				9C2F1E321D0E6DF900A4904A /* MitoViewController.m */,
+				9C2F1E341D0E6E0300A4904A /* RecommendViewController.h */,
+				9C2F1E351D0E6E0300A4904A /* RecommendViewController.m */,
+				9C2F1E371D0E6E0D00A4904A /* SocialViewController.h */,
+				9C2F1E381D0E6E0D00A4904A /* SocialViewController.m */,
+				9C2F1E3A1D0E6E5300A4904A /* Main.storyboard */,
 				9C8CD0CA1D0E69E20071DB42 /* Assets.xcassets */,
 				9C8CD0CC1D0E69E20071DB42 /* LaunchScreen.storyboard */,
 				9C8CD0CF1D0E69E20071DB42 /* Info.plist */,
@@ -278,7 +278,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C8CD10B1D0E6ACE0071DB42 /* Main.storyboard in Resources */,
+				9C2F1E3B1D0E6E5300A4904A /* Main.storyboard in Resources */,
 				9C8CD0CE1D0E69E20071DB42 /* LaunchScreen.storyboard in Resources */,
 				9C8CD0CB1D0E69E20071DB42 /* Assets.xcassets in Resources */,
 			);
@@ -305,16 +305,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C8CD1031D0E6ACE0071DB42 /* ViewController.m in Sources */,
-				9C8CD1041D0E6ACE0071DB42 /* RecommendViewController.m in Sources */,
-				9C8CD1051D0E6ACE0071DB42 /* EntertainmentViewController.m in Sources */,
-				9C8CD1091D0E6ACE0071DB42 /* SocialViewController.m in Sources */,
+				9C2F1E2A1D0E6DD300A4904A /* FashionViewController.m in Sources */,
+				9C834F081D0E6D7100F1D38F /* ViewController.m in Sources */,
+				9C2F1E271D0E6DBE00A4904A /* EntertainmentViewController.m in Sources */,
+				9C2F1E301D0E6DEB00A4904A /* MilitaryViewController.m in Sources */,
 				9C8CD0C31D0E69E20071DB42 /* AppDelegate.m in Sources */,
-				9C8CD10A1D0E6ACE0071DB42 /* FashionViewController.m in Sources */,
 				9C8CD0C01D0E69E20071DB42 /* main.m in Sources */,
-				9C8CD1081D0E6ACE0071DB42 /* MilitaryViewController.m in Sources */,
-				9C8CD1071D0E6ACE0071DB42 /* MitoViewController.m in Sources */,
-				9C8CD1061D0E6ACE0071DB42 /* FunnyViewController.m in Sources */,
+				9C2F1E2D1D0E6DDD00A4904A /* FunnyViewController.m in Sources */,
+				9C2F1E391D0E6E0D00A4904A /* SocialViewController.m in Sources */,
+				9C2F1E331D0E6DF900A4904A /* MitoViewController.m in Sources */,
+				9C2F1E361D0E6E0300A4904A /* RecommendViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,15 +356,6 @@
 				9C8CD0CD1D0E69E20071DB42 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		9C8CD1021D0E6ACE0071DB42 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9C8CD1011D0E6ACE0071DB42 /* Base */,
-			);
-			name = Main.storyboard;
-			path = "../../../头条/头条";
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -541,6 +532,7 @@
 				9C8CD0EA1D0E69E20071DB42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C8CD0EB1D0E69E20071DB42 /* Build configuration list for PBXNativeTarget "NewsProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -549,6 +541,7 @@
 				9C8CD0ED1D0E69E20071DB42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C8CD0EE1D0E69E20071DB42 /* Build configuration list for PBXNativeTarget "NewsProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -557,6 +550,7 @@
 				9C8CD0F01D0E69E20071DB42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
