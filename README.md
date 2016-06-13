@@ -3,6 +3,6 @@
 
 
 效果图如下：
-![image](https://github.com/YourAcountName/ProjectName/blob/master/2.gif ) 
+![image](https://github.com/YYDreams/nesProject/master/2.gif ) 
 
 
